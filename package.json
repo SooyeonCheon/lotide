@@ -14,8 +14,7 @@
     "url": "git+https://github.com/SooyeonCheon/lotide.git"
   },
   "author": {
-    "name" : "Sooyeon Cheon",
-    "email" : "suyeon5445@gmail.com"
+    "name": "Sooyeon Cheon"
   },
   "license": "ISC",
   "bugs": {
@@ -25,5 +24,8 @@
   "devDependencies": {
     "chai": "^4.3.7",
     "mocha": "^9.2.2"
+  },
+  "dependencies": {
+    "my-package": "0.0.0"
   }
 }
